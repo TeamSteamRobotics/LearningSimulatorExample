@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LearningSimulator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LearningSimulator/build/libs/LearningSimulator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../LearningSimulator/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
