@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../LearningSimulatorExample/LearningSimulatorExample.iml" filepath="$PROJECT_DIR$/../LearningSimulatorExample/LearningSimulatorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningSimulatorExample.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningSimulatorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningSimulatorExample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningSimulatorExample_main.iml" group="LearningSimulatorExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningSimulatorExample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningSimulatorExample_test.iml" group="LearningSimulatorExample" />
     </modules>
   </component>
 </project>
