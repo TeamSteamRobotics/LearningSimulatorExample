@@ -6,7 +6,7 @@ plugins {
 def ROBOT_CLASS = "Robot"
 
 dependencies {
-    compile 'amrelk.simulation.learning:learning-simulator:0.2.0.3-SNAPSHOT'
+    compile 'amrelk.simulation.learning:learning-simulator:0.2.1.1-SNAPSHOT'
 }
 
 repositories {
